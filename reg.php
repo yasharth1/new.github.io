@@ -38,7 +38,7 @@
           <a class="nav-link" href="contact.html">Contact</a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="/ColorChangingWebpage/reg.php">Login/register</a>
+          <a class="nav-link" href="reg.php">Login/register</a>
         </li>
       </ul>
     </div>
